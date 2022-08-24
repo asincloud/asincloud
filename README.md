@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 -->
 
 <img 
-  height="140em"
+  height="130em"
   src="https://github-readme-stats.vercel.app/api?username=asincloud&count_private=true&show_icons=true&theme=cobalt&hide_title=true"
 />
 <img 
-  height="140em"
+  height="130em"
   src="https://github-readme-stats.vercel.app/api/top-langs?username=asincloud&theme=cobalt&hide_title=true&layout=compact"
 />
