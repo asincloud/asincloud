@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <img 
   height="130em"
   src="https://github-readme-stats.vercel.app/api?username=asincloud&count_private=true&show_icons=true&theme=cobalt&hide_title=true"
@@ -25,3 +26,6 @@ Here are some ideas to get you started:
   height="130em"
   src="https://github-readme-stats.vercel.app/api/top-langs?username=asincloud&theme=cobalt&hide_title=true&layout=compact"
 />
+-->
+
+![Banner](https://pbs.twimg.com/profile_banners/1459595157213519875/1636830775/1500x500)
